@@ -2,6 +2,7 @@ import Link from 'next/link';
 import React, {useState, useEffect} from 'react';
 import {BsBagCheckFill} from 'react-icons/bs';
 
+
 import { useStateContext } from '../context/stateContext';
 import { runFireworks } from '../Lib/utils';
 
