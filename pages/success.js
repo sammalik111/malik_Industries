@@ -2,12 +2,11 @@ import Link from 'next/link';
 import React, {useState, useEffect} from 'react';
 import {BsBagCheckFill} from 'react-icons/bs';
 
-
 import { useStateContext } from '../context/stateContext';
 import { runFireworks } from '../Lib/utils';
 
 
-const success = () => {
+const Success = () => {
     const {setCartItems, setTotalPrice, setTotalQuantities} = useStateContext();
     useEffect(()=> {
         localStorage.clear();
@@ -40,4 +39,4 @@ const success = () => {
     )
 }
 
-export default success
+export default Success
