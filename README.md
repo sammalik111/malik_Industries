@@ -6,4 +6,4 @@ This is a Next.js project bootstrapped with [`create-next-app`](https://github.c
 4. Stripe payment functioanlity to process transactions and route money to seller
 5. Toast API to give visual cues when an imporant action like a sucessful transaction is performed
 
-This is a passion project done over a month individually to create modular templating for an ecommernce website. Eveerything can be adjusted Via Stripe and Sanity Dashboards upon login due to the modularity of the code, someone who copies this code need not change any actual HTML or Javascript to make their website work for them besides adjusting who payment is routed to and connected all the API's used to your instance. 
+This is a passion project done over a month individually to create modular templating for an ecommernce website. Everything can be adjusted Via Stripe and Sanity Dashboards upon login due to the modularity of the code, someone who copies this code need not change any actual HTML or Javascript to make their website work for them besides adjusting who payment is routed to and connected all the API's used to your instance. 
